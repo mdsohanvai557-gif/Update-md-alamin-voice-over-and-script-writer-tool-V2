@@ -1,0 +1,7 @@
+{
+  "name": "Md Alamin Voice Over and Script Writer Tool",
+  "description": "A professional AI voice studio featuring 55+ preset artists, advanced voice cloning analysis, and script rewriting tools powered by Gemini 2.5.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
