@@ -1,6 +1,6 @@
 {
   "name": "Automation Tool",
-  "short_name": "Automation Tool",
+  "short_name": "automationtool",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#1e293b",
